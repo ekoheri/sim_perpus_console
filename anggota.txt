@@ -1,0 +1,5 @@
+A001|Eko Heri|Karanglo
+A002|Budiman|Karang Ploso
+A003|Deni Sudibyo|Kepanjen
+A004|Aryo Sanjaya|Sumbersari
+A005|Antoni|Batu

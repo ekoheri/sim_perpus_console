@@ -1,0 +1,8 @@
+# Abaikan semua file object (*.o)
+*.o
+
+# Abaikan file executable (nama program hasil kompilasi)
+sim_perpus
+
+# Abaikan file backup editor
+*~
